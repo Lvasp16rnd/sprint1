@@ -1,4 +1,4 @@
-<h1>como funciona</h1>
+<h1>Como Funciona o chatbot</h1>
 <ul>
 <li>1° O chatbot tem uma lista de perguntas e repostas que estão indicadas no python como 'trainer.train'</li>
 
