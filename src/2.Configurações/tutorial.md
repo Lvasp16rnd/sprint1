@@ -1,4 +1,4 @@
-<h1>EXECUTANDO O CHATBOT (MODO DE DESENVOLVIMMENTO)</h1>
+<h1>Executando o Chatbot (Modo de Desenvolvimento)</h1>
 
 <ul>
  <li>1° Instalar o Python no seu desktop</li>
@@ -8,7 +8,7 @@
  <li>5° Após o uso aperte control + C para sair.</li>
 </ul>
 
-<h1>IMPORTANDO O BANCO DE DADOS PARA O FIREBASE</h1>
+<h1>Imporytando o Bando de Dados para o FireBase</h1>
 
 <ul>
 <li>1° É necessário que passe o formato do sqlite3 para MySQL
