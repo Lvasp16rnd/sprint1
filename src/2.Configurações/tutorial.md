@@ -1,4 +1,4 @@
-EXECUTANDO O CHATBOT (MODO DE DESENVOLVIMMENTO)
+<h1>EXECUTANDO O CHATBOT (MODO DE DESENVOLVIMMENTO)</h1>
 
 1° Instalar o Python no seu desktop
 2° Instalar a biblioteca chatterbot ou chatterbot_corpus (usando o comando pip)
@@ -6,7 +6,7 @@ EXECUTANDO O CHATBOT (MODO DE DESENVOLVIMMENTO)
 4° Rodar o código (run)
 5° Após o uso aperte control + C para sair.
 
-IMPORTANDO O BANCO DE DADOS PARA O FIREBASE
+<h1>IMPORTANDO O BANCO DE DADOS PARA O FIREBASE</h1>
 
 1° É necessário que passe o formato do sqlite3 para MySQL
 sendo assim devemos fazer dois passos, primeiro compactar o arquivo 'db.sqlite3' no formato zip com o nome do arquivo de 'output.zip',
@@ -16,7 +16,6 @@ depois basta abrir o terminal e digitar 'curl -F files[]=@db.sqlite3 'https://ww
 'delete from statement where in_response_to = "";
  delete from statement where conversation = "training" and id %2 = 1;
  delete from statement where conversation = "" and search_text = "";
-'
 
 3° Em seguida você irá selecionar a tabela 'statement' nos schemas clicando no lado direito do mouse e clicando depois na opção 'table data export wizard'
 
