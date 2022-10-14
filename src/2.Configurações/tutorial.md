@@ -1,10 +1,12 @@
 <h1>EXECUTANDO O CHATBOT (MODO DE DESENVOLVIMMENTO)</h1>
 
-1° Instalar o Python no seu desktop
-2° Instalar a biblioteca chatterbot ou chatterbot_corpus (usando o comando pip)
-3° Utilizar algum editor de código ou terminal (cmd no windows) para executar o bot
-4° Rodar o código (run)
-5° Após o uso aperte control + C para sair.
+<ul>
+ <li>1° Instalar o Python no seu desktop</li>
+ <li>2° Instalar a biblioteca chatterbot ou chatterbot_corpus (usando o comando pip)</li>
+ <li>3° Utilizar algum editor de código ou terminal (cmd no windows) para executar o bot</li>
+ <li>4° Rodar o código (run)</li>
+ <li>5° Após o uso aperte control + C para sair.</li>
+</ul>
 
 <h1>IMPORTANDO O BANCO DE DADOS PARA O FIREBASE</h1>
 
