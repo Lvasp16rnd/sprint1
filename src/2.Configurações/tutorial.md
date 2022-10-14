@@ -8,7 +8,7 @@
  <li>5° Após o uso aperte control + C para sair.</li>
 </ul>
 
-<h1>Importando o Bando de Dados para o FireBase</h1>
+<h1>Exportando o Bando de Dados para o FireBase</h1>
 
 <ul>
 <li>1° É necessário que passe o formato do sqlite3 para MySQL
