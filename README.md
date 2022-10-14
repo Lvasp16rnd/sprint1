@@ -1,5 +1,5 @@
 # Chatbot Otis
-##Sendo desenvolvido por: Pedro Correa, Lucas Vinícius, Vínicus Rodrigues, Vinícius Gomes.
+Sendo desenvolvido por: Pedro Correa, Lucas Vinícius, Vínicus Rodrigues, Vinícius Gomes.
 ## Escopo do Projeto
 1. [Introdução](https://github.com/pedrocsampaio/sprint1/blob/main/src/1.Escopo/introducao.md)
 2. [Funcionalidades](https://github.com/pedrocsampaio/sprint1/blob/main/src/1.Escopo/funcionalidades.md)
