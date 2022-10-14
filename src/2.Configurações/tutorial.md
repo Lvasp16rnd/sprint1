@@ -3,10 +3,9 @@
 <ul>
  <li>1° Instalar o Python no seu desktop</li>
  <li>2° Instalar a biblioteca chatterbot ou chatterbot_corpus (usando o comando pip)</li>
- <li>3° Utilizar algum editor de código ou terminal (cmd no windows) para executar o bot, abrir pasta baixada no editor de código</li>
+ <li>3° Utilizar algum editor de código ou terminal (cmd no windows) para executar o bot, abrir o arquivo "main.py" (que pode ser baixado no link: https://github.com/Lvasp16rnd/knowledge-engineering/tree/main/otis)</li>
  <li>4° Rodar o código (run)</li>
- <li>5° Abrir "main.py" (que pode ser baixado no link: https://github.com/Lvasp16rnd/knowledge-engineering/tree/main/otis)</li>
- <li>6° Após o uso aperte control + C para sair.</li>
+ <li>5° Após o uso aperte control + C para sair.</li>
 </ul>
 
 <h1>Exportando o Bando de Dados para o FireBase</h1>
