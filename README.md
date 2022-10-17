@@ -9,4 +9,3 @@ Sendo desenvolvido por: Pedro Correa, Lucas Vinícius, Vínicus Rodrigues, Viní
 1. [Qual caminho seguir](https://github.com/pedrocsampaio/sprint1/blob/main/src/3.Rotas/descricao.md)
 ## Modelagem do Bando de Dados
 1. [Molelo Lógico](https://github.com/pedrocsampaio/sprint1/blob/main/src/4.Modelagem/modelológico.md)
-2. [Arquivo] ()
