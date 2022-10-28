@@ -10,4 +10,4 @@ Sendo desenvolvido por: Pedro Correa, Lucas Vinícius, Vínicus Rodrigues, Viní
 ## Modelagem do Bando de Dados
 1. [Molelo Lógico](https://github.com/pedrocsampaio/sprint1/blob/main/src/4.Modelagem/modelológico.md)
 ## Documentação
-1. [documentação detalhada do projeto]()
+1. [documentação detalhada do projeto](https://closed-watchmaker-f4d.notion.site/DOCUMENTA-O-ca17f0bbb1db4b3694dcf996265611b9)
